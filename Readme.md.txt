@@ -1,7 +1,7 @@
 📊 HR Analytics Dashboard – Employee Turnover Case Study  
 
 🔹 Objective  
-The goal of this project is to analyze employee turnover data using **SQL** and **Power BI** to identify key drivers of attrition, provide actionable insights, and help HR managers design retention strategies.  
+The goal of this project is to analyze employee turnover data using SQL and Power BI to identify key drivers of attrition, provide actionable insights, and help HR managers design retention strategies.  
 
 ---
 
@@ -90,3 +90,4 @@ Based on the analysis, HR managers should focus on:
 🔹 Author  
 Project by Aadya Agarwal | SQL & Power BI Enthusiast | Data Analyst
 ---
+
